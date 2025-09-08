@@ -132,9 +132,4 @@ Block{index=2, timestamp=1694179320000, transactions=[Eve -> Frank: 100], previo
 
 This project successfully simulates a blockchain, demonstrating how transactions are stored in blocks, how blocks are mined using proof-of-work, and how the chain maintains its integrity. It provides a solid foundation for understanding blockchain technology and can be extended to more advanced blockchain applications.
 
----
-
-If you want, I can **also create a nicely formatted Word/PDF version** of this report ready to submit, complete with **diagrams of blockchain and block structure** for visuals.
-
-Do you want me to do that next?
 
